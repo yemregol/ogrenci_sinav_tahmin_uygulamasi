@@ -1,1 +1,1 @@
-# ogrenci_tahmin_uygulamasi
+# ogrenci_sinav_tahmin_uygulamasi
